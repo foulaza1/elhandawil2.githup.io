@@ -1,0 +1,163 @@
+
+
+/*------------------- START NAVBAR -----------------*/
+.navbar-custom {
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    border: none;
+}
+
+.navbar-default .navbar-brand {
+    color: rgb(240, 252, 241);
+}
+
+/*--------------------- END NAVBAR ------------------------*/
+
+/*--------------------- START CAROUSEL --------------------*/
+
+
+#mycarousel {
+	width: 1100px;
+	margin: auto;
+    margin-top: 70px;
+	text-align: center;
+}
+
+/*------------------- END CAROUSEL ----------------------------*/
+
+ /*------------------- START PIC --------------------------*/
+
+.prod {
+ text-align: center;
+ margin-top: 80px;
+    margin-bottom: 10px;
+	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+ }
+ .pic {
+	margin-top: -80px;
+	position: center;
+	padding: 100px;
+}
+
+.img1 {
+	margin-left: 226px;
+}
+
+.img2 {
+	float: right;
+	margin-right: 226px;
+}
+
+ /*------------------- END PIC ------------------*/
+ 
+ /*------------------- START FOOTER ----------------*/
+
+ footer#footer {
+    color: black;
+    text-align: center;
+    font-size: 10px;
+    letter-spacing: 3px;
+    font-family: brandon_grotesquebold;
+    font-weight: 400;
+} 
+
+
+
+footer#footer h4 small {
+    display: block;
+    font-size: 14px;
+    letter-spacing: 2px;
+    padding: 0 0 10px 0;
+}
+
+footer#footer .prima p {
+    text-align: center;
+}
+
+footer#footer p {
+    margin: 0;
+    line-height: 2;
+}
+
+.ftext {
+	background-color: #DFDFDF;
+}
+
+#footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+}
+
+footer#footerind {
+    color: black;
+    text-align: center;
+    font-size: 10px;
+    letter-spacing: 3px;
+    font-family: brandon_grotesquebold;
+    font-weight: 400;
+} 
+
+footer#footerind h4 small {
+    display: block;
+    font-size: 14px;
+    letter-spacing: 2px;
+    padding: 0 0 10px 0;
+}
+
+footer#footerind .prima p {
+    text-align: center;
+}
+
+footer#footerind p {
+    margin: 0;
+    line-height: 2;
+}
+
+
+/* ------------------- END FOOTER --------------------- */
+
+
+/* -------------------- START ABOUT -------------------*/
+
+.sb-card {
+	background: rgba(129, 253, 167, 0.03);
+	width: 30%;
+	margin: auto;
+	height: 30%;
+	text-align: center;
+}
+
+.card {
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.50rem;
+	margin-top: 100px;
+}
+
+.card-block {
+    padding: 7.25rem;
+}
+
+.card-block h3 {
+	margin-top: -20px;
+	margin-bottom: 30px;
+}
+
+.map {
+	margin: auto;
+}
+
+/* -------------------- END ABOUT -------------------*/
+
+/*-------------------- START CONTACT -----------------*/
+
+#contact {
+	margin-top: 250px;
+	width: 70%;
+	background-color: rgba(129, 253, 167, 0.04);
+}
+
+/* ---------------- END CONTACT --------------------*/ 

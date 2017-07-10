@@ -1,0 +1,84 @@
+
+/*------------ BODY ----------*/
+
+body {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 1rem;
+    font-weight: normal;
+    line-height: 1.5;
+    color: #292b2c;
+    background-color: #fff;
+}
+
+/*------------ BODY ---------*/
+
+/*------------IMG 1,2-------------*/
+
+.img1 , .img2 {
+	margin-top: 120px;
+}
+
+/*---------- END IMG 1,2----------*/
+
+/*----------- DESCRIPTIN IMG1 -------------*/
+
+
+#posdesc {
+	margin-top: 120px;
+}
+
+
+.card-block1 {
+    flex: 1 1 auto;
+    padding: 1.50rem;
+}
+
+.sb-card1 {
+    background: rgba(129, 253, 167, 0.03);
+    border: 1px solid #ededed;
+    border-bottom: 3px solid #ededed;
+	float: right;
+	margin-right: 290px;
+	margin-bottom: 30px;
+	width: 20%;
+	height:14%;
+	text-align: center;
+}
+
+.sb-card2 {
+    background: rgba(129, 253, 167, 0.03);
+    border: 1px solid #ededed;
+    border-bottom: 3px solid #ededed;
+	float: right;
+	margin-right: 290px;
+	margin-bottom: 30px;
+	width: 20%;
+}
+
+.sb-card3 {
+    background: rgba(129, 253, 167, 0.03);
+    border: 1px solid #ededed;
+    border-bottom: 3px solid #ededed;
+	float: right;
+	margin-right: 290px;
+	margin-bottom: 30px;
+	width: 20%;
+	margin-left: 400px;
+}
+
+.card2 {
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.50rem;
+    margin-top: -175px;
+}
+
+.card3 {
+	  border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.50rem;
+    margin-top: -8px;
+}
+
+
+
+
+/*----------- END DESCRIPTION IMG1 -------------*/
